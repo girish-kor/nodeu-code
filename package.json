@@ -3,7 +3,7 @@
   "publishConfig": {
   "access": "public"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js/TypeScript package that reduces boilerplate code by 80% through modular, type-safe abstractions.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,7 +13,7 @@
   "scripts": {
     "build": "tsc",
     "test": "vitest",
-    "format": "prettier --write 'src/**/*.{ts,js}' 'tests/**/*.{ts,js}'",
+    "format": "prettier --write 'src/**/*.{ts,js}' 'tests/**/*.{ts,js}'"
   },
   "keywords": [
     "backend",
