@@ -1,0 +1,9 @@
+src/
+tests/
+docs/
+.gitignore
+README.md
+package-lock.json
+tsconfig.json
+vitest.config.ts
+.prettierrc

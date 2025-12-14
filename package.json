@@ -1,0 +1,45 @@
+{
+  "name": "@nodeu/code",
+  "publishConfig": {
+  "access": "public"
+  },
+  "version": "1.0.0",
+  "description": "A Node.js/TypeScript package that reduces boilerplate code by 80% through modular, type-safe abstractions.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest",
+    "format": "prettier --write 'src/**/*.{ts,js}' 'tests/**/*.{ts,js}'",
+  },
+  "keywords": [
+    "backend",
+    "typescript",
+    "framework",
+    "abstractions"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^25.0.1",
+    "prettier": "^3.0.0",
+    "typedoc": "^0.28.15",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.15"
+  },
+  "vitest": {
+    "test": {
+      "include": [
+        "tests/**/*.test.ts"
+      ]
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/girish-kor/nodeu-code"
+  },
+  "homepage": "https://www.npmjs.com/package/@nodeu/code"
+}
