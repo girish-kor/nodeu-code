@@ -1,6 +1,6 @@
 # Adapters
 
-[ [Types](types.md) | [HTTP](http.md) | [Middleware](middleware.md) | [Service](service.md) | [Adapters](adapters.md) | [Utilities](utilities.md) | [Index](README.md) ]
+[ [Types](types.md) | [HTTP](http.md) | [Middleware](middleware.md) | [Service](service.md) | [Adapters](adapters.md) | [Utilities](utilities.md) ]
 
 The adapters layer provides data access abstractions and database-related utilities. These components abstract away the specifics of data storage and retrieval.
 

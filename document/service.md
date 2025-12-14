@@ -1,6 +1,6 @@
 # Service
 
-[ [Types](types.md) | [HTTP](http.md) | [Middleware](middleware.md) | [Service](service.md) | [Adapters](adapters.md) | [Utilities](utilities.md) | [Index](README.md) ]
+[ [Types](types.md) | [HTTP](http.md) | [Middleware](middleware.md) | [Service](service.md) | [Adapters](adapters.md) | [Utilities](utilities.md) ]
 
 The service layer contains business logic abstractions and supporting utilities like caching, event handling, and job processing.
 

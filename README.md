@@ -14,12 +14,12 @@
 
 | Layer | Description |
 |-------|-------------|
-| [Types](types.md) | Core TypeScript interfaces and error classes that provide type safety across the entire package. |
-| [HTTP](http.md) | HTTP request/response abstractions including handlers, builders, controllers, routes, and parameter extraction. |
-| [Middleware](middleware.md) | Authentication, authorization, validation, and cross-cutting concerns middleware. |
-| [Service](service.md) | Business logic abstractions including base services, caching, event handling, and job queues. |
-| [Adapters](adapters.md) | Data access abstractions for repositories, queries, transactions, connections, and migrations. |
-| [Utilities](utilities.md) | Common helper functions for data manipulation, validation, and transformation. |
+| [Types](document/types.md) | Core TypeScript interfaces and error classes that provide type safety across the entire package. |
+| [HTTP](document/http.md) | HTTP request/response abstractions including handlers, builders, controllers, routes, and parameter extraction. |
+| [Middleware](document/middleware.md) | Authentication, authorization, validation, and cross-cutting concerns middleware. |
+| [Service](document/service.md) | Business logic abstractions including base services, caching, event handling, and job queues. |
+| [Adapters](document/adapters.md) | Data access abstractions for repositories, queries, transactions, connections, and migrations. |
+| [Utilities](document/utilities.md) | Common helper functions for data manipulation, validation, and transformation. |
 
 
 ## Installation

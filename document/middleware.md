@@ -1,6 +1,6 @@
 # Middleware
 
-[ [Types](types.md) | [HTTP](http.md) | [Middleware](middleware.md) | [Service](service.md) | [Adapters](adapters.md) | [Utilities](utilities.md) | [Index](README.md) ]
+[ [Types](types.md) | [HTTP](http.md) | [Middleware](middleware.md) | [Service](service.md) | [Adapters](adapters.md) | [Utilities](utilities.md)]
 
 The middleware layer provides reusable components for authentication, authorization, validation, and cross-cutting concerns. These middlewares can be attached to routes to handle common web application requirements.
 

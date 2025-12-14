@@ -1,6 +1,6 @@
 # Utilities
 
-[ [Types](types.md) | [HTTP](http.md) | [Middleware](middleware.md) | [Service](service.md) | [Adapters](adapters.md) | [Utilities](utilities.md) | [Index](README.md) ]
+[ [Types](types.md) | [HTTP](http.md) | [Middleware](middleware.md) | [Service](service.md) | [Adapters](adapters.md) | [Utilities](utilities.md) ]
 
 The utilities layer provides common helper functions for data manipulation, validation, and transformation. These are pure functions that can be used across the application.
 

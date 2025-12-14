@@ -1,6 +1,6 @@
 # HTTP
 
-[ [Types](types.md) | [HTTP](http.md) | [Middleware](middleware.md) | [Service](service.md) | [Adapters](adapters.md) | [Utilities](utilities.md) | [Index](README.md) ]
+[ [Types](types.md) | [HTTP](http.md) | [Middleware](middleware.md) | [Service](service.md) | [Adapters](adapters.md) | [Utilities](utilities.md) ]
 
 The HTTP layer provides abstractions for handling HTTP requests, building responses, registering controllers, building routes, and extracting path parameters. This layer reduces boilerplate code in web application development by offering type-safe, modular components.
 
